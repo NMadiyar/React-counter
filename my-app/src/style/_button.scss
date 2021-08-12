@@ -1,0 +1,21 @@
+.btn{
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  transition: background-color linear .2s;
+}
+.increase:hover{
+  background-color: #9898e7;
+}
+
+.increase{
+  background-color: #7d7de7;
+}
+
+.decrease{
+  background-color: #ec5d5d;
+}
+
+.decrease:hover{
+  background-color: #f38989;
+}

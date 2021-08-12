@@ -1,0 +1,25 @@
+.container {
+  max-width: 720px;
+}
+header{
+  display: flex;
+  font-family: 'Palette Mosaic', cursive;
+}
+.counter{
+  display: flex;
+}
+
+.btn-pos{
+  display: flex;
+  justify-content: space-between;
+}
+.counter{
+  display: flex;
+  width: 150px;
+  font-size: 26px;
+  text-align: center;
+  justify-content: center;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
